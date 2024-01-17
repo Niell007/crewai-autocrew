@@ -30,10 +30,12 @@ Welcome to the CrewAI AutoCrew Script, an innovative Python tool designed to aut
 - Basic knowledge of Python and command-line operations.
 
 ## Installation
-1. Clone the repository to your local machine.
-2. Install Python 3.x if not already installed: [Python Installation Guide](https://www.python.org/downloads/).
-3. Obtain an OpenAI API key from [OpenAI](https://openai.com/).
-4. Install necessary dependencies:
+1. Clone the repository to your local machine
+   `git clone https://github.com/yanniedog/crewai-autocrew.git`
+   `cd crewai-autocrew`
+3. Install Python 3.x if not already installed: [Python Installation Guide](https://www.python.org/downloads/).
+4. Obtain an OpenAI API key from [OpenAI](https://openai.com/).
+5. Install necessary dependencies:
    ```
    pip install -r requirements.txt
    ```
